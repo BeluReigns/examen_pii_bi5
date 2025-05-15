@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lecturas Servicios</string>
+    <string name="title_listado">Historial de Lecturas</string>
+    <string name="title_formulario">Registro Medidor</string>
+    <string name="label_valor">Medidor</string>
+    <string name="label_fecha">Fecha</string>
+    <string name="label_servicio">Medidor de:</string>
+    <string name="button_guardar">Registrar medición</string>
+    <string name="tipo_agua">Agua</string>
+    <string name="tipo_luz">Luz</string>
+    <string name="tipo_gas">Gas</string>
+    <string name="sin_registros">No hay registros aún</string>
+
+</resources>

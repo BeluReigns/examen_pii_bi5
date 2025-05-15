@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Utility Readings</string>
+    <string name="title_listado">Readings History</string>
+    <string name="title_formulario">Meter Registration</string>
+    <string name="label_valor">Meter</string>
+    <string name="label_fecha">Date</string>
+    <string name="label_servicio">Service:</string>
+    <string name="button_guardar">Save Reading</string>
+    <string name="tipo_agua">Water</string>
+    <string name="tipo_luz">Electricity</string>
+    <string name="tipo_gas">Gas</string>
+    <string name="sin_registros">No readings yet</string>
+
+</resources>
